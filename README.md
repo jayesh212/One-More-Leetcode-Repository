@@ -1,4 +1,4 @@
-### Journey To Leetcode Knight
+# Journey To Leetcode Knight
 This repository is for the documenting the journey from current position to a knight on leetcode
 User ID : jay1008
 It can serve as a guide or a motivation
